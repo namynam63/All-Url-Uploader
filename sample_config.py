@@ -25,11 +25,11 @@
 class Config(object):
 
     # get a token from @BotFather
-    BOT_TOKEN = " 6394139620:AAFmPQnnbJGpjneJWokk__9SFyCQNCWlaDc"
+    BOT_TOKEN = "6394139620:AAFmPQnnbJGpjneJWokk__9SFyCQNCWlaDc"
 
     # Get these values from my.telegram.org
     API_ID = 29681511 
-    API_HASH = " 645a6fd23087c6242625a1d2141dd884""
+    API_HASH = "645a6fd23087c6242625a1d2141dd884"
 
     # No need to change
     DOWNLOAD_LOCATION = "./DOWNLOADS"
@@ -44,7 +44,7 @@ class Config(object):
     OWNER_ID = 5687234987 
 
     # bot username without @
-    BOT_USERNAME = " uploadcykmbot"
+    BOT_USERNAME = "uploadcykmbot"
 
     # auth users
     AUTH_USERS = [ 5687234987 ]
